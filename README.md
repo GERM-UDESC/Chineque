@@ -1,2 +1,3 @@
 # Chineque
-BeetleWeight
+
+BeetleWeight - 3lb
