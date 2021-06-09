@@ -1,3 +1,3 @@
 # Chineque
 
-Categoeria: Combate BeetleWeight - 3lb
+Categoria: Combate BeetleWeight - 3lb
